@@ -250,11 +250,11 @@ img {
 }
 
 .team {
-  background-color: #f4f4fd;
+  background: #fff;
 }
 
 .team-section {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -267,7 +267,7 @@ img {
 }
 
 .team-item {
-  background-color: #ffffff;
+  background-color: #fff;
   flex-basis: calc((100% - 72px) / 4);
   border-radius: 0 0 4px 4px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
