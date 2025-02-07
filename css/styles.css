@@ -117,9 +117,6 @@ img {
   gap: 40px;
 }
 
-.header-menu-item {
-}
-
 .header-menu-link {
   font-weight: 500;
   font-size: 16px;
@@ -160,9 +157,6 @@ img {
 .header-address-list {
   display: flex;
   gap: 40px;
-}
-
-.header-address-item {
 }
 
 .header-address-link {
@@ -230,9 +224,6 @@ img {
   background-color: #404bbf;
 }
 
-.features {
-}
-
 .features-list {
   display: flex;
   gap: 24px;
@@ -258,9 +249,6 @@ img {
   margin-bottom: 8px;
 }
 
-.features-text {
-}
-
 .team {
   background-color: #f4f4fd;
 }
@@ -280,9 +268,6 @@ img {
   border-radius: 0 0 4px 4px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-}
-
-.team-img {
 }
 
 .team-bottom {
@@ -325,9 +310,6 @@ img {
 .team-text {
   text-align: center;
   margin-bottom: 8px;
-}
-
-.portfolio {
 }
 
 .portfolio-title {
@@ -379,14 +361,8 @@ img {
   border-top: none;
 }
 
-.portfolio-img {
-}
-
 .portfolio-subtitle {
   margin-bottom: 8px;
-}
-
-.portfolio-text {
 }
 
 .footer {
@@ -593,9 +569,6 @@ img {
   text-align: center;
   color: #2e2f42;
   margin-bottom: 16px;
-}
-
-.modal-form {
 }
 
 .modal-field {
