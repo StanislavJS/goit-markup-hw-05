@@ -405,6 +405,7 @@ img {
 }
 
 .footer-subtitle {
+  display: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -491,6 +492,12 @@ img {
 .footer-btn-icon {
   fill: #ffffff;
   margin-left: 16px;
+}
+
+.footer-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .backdrop {
